@@ -1,0 +1,25 @@
+#train{
+    width: 1100;
+    height: 900;
+    border-radius: 50px;
+}
+
+body {
+    text-align: center;
+    background: red;
+    font-family: impact;
+}
+
+.menu {
+    position: fixed;
+    background: White;
+    Target: _blank;
+}
+
+#videos {
+    border-radius: 50px
+}
+
+h1{
+    font-family: impact;
+}
